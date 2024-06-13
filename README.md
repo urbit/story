@@ -32,3 +32,5 @@ Long descriptive message
 ```
 
 Story is supported in `%base`, but you'll need to make the mark available on the target desk as done here.
+
+- Story was originally written by @ynx0, e.g. [urbit/urbit 78468dc](https://github.com/urbit/urbit/commit/78468dc8ee4804b71d2010db4733e4650b827722).
